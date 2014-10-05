@@ -37,7 +37,7 @@ public class TimeTableController {
 //		Calendar durationStartCal = toAdd.getStartDate();
 //		int durationStartYear = durationStartCal.get(Calendar.YEAR);
 //		int durationStartMonth = durationStartCal.get(Calendar.MONTH);
-//		int durationStartDay = durationStartCal.get(Calendar.DAY_OF_WEEK);
+//		int durationStartsdDay = durationStartCal.get(Calendar.DAY_OF_WEEK);
 //
 //		Calendar durationEndCal = toAdd.getEndDate();
 //		int durationEndYear = durationEndCal.get(Calendar.YEAR);
